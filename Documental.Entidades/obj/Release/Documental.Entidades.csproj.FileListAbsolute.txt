@@ -1,0 +1,5 @@
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Release\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Release\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.csprojResolveAssemblyReference.cache

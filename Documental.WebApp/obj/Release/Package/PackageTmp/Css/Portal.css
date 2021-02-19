@@ -1,0 +1,478 @@
+﻿body
+{
+    position: relative;
+    color: #777777;
+    background: #C6C4C4;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    top: -8px;
+    left: 0px;
+}
+
+.container
+{
+    display: block;
+    margin: 0 auto;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    width: 950px;
+    background: #FFF;
+}
+
+.SubirArchivo
+{
+    position: relative;
+    background-color: #fff;
+    color: #000000;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    top: 0px;
+    left: -9px;
+}
+
+.EncabezadoFormularioEditar
+{
+    background: #437cd8;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: White;
+    width: 720px;
+    text-align: left;
+}
+.EncabezadoTitulo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border: 0px;
+    width: 100%;
+    text-align: right;
+    color: #ffffff;
+    font-weight: bold;
+    height:100%;
+}
+.BandejaGrupoDoc
+{
+    float: left;
+    background-color: #cddbf2; /*#dee2ee;*/
+    color: #000099;
+    border: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.BandejaGrupoDoc h1
+{
+    font-size: 18px;
+    color: #000099;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BandejaGrupoDoc p
+{
+    font-size: 11px;
+    color: #000099;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+.BandejaGrupoDoc table
+{
+    border: 0;
+    width: 215px;
+}
+
+.BandejaGrupoDoc tr
+{
+    display: block;
+    border-bottom: 1px dotted #ccc;
+    width: 215px;
+    padding: 10px 0px 0px 0px;
+    text-align: left;
+    height: 30px;
+}
+.BandejaGrupoDoc td
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border: 0px;
+}
+
+.BandejaGrupoDoc td a
+{
+    text-decoration: none;
+    color: #000099;
+}
+
+.BandejaGrupoDoc li:hover
+{
+    background-color: #bfc6de;
+    display: block;
+}
+.encabezado
+{
+    padding: 5px 15px;
+    border-bottom: 1px solid #26419e;
+    background-color: #437cd8;
+}
+
+.MantencionGrupoDoc
+{
+    height: 670px;
+    border: 0px;
+    padding: 0px 0px 0px 0px;
+    width: 730px;
+}
+
+.Link:link
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    vertical-align: text-bottom;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #cdcfd6;
+}
+.Link:hover
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+
+.ContenidoDocumento
+{
+    padding: 10px 0px 0px 0px;
+    width: 950px;
+}
+
+.ContenidoDocumentoEncabezado
+{
+    padding: 0px 0px 0px 0px;
+    width: 950px;
+}
+
+.divtableContent
+{
+    background: #cddbf2;
+    border: 0px;
+    padding: 0px 0px 0px 10px;
+    width: 720px; /*display: none;*/
+}
+
+.tableContent
+{
+    font-size: 12px;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #344256;
+    border: "0";
+    width:100%;
+}
+
+.tableContent td
+{
+    height: 28px;
+}
+
+.tableDocumento
+{
+    font-size: 12px;
+    width: 100%;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000099;
+    border: "0";
+}
+
+.tableDocumento td
+{
+    height: 28px;
+}
+
+.PanelDocumentos
+{
+    width: 720px;
+    padding: 0px 0px 0px 0px;
+}
+
+.PanelDocumentosRepositorio
+{
+    width: 720px;
+    padding: 0px 0px 0px 0px;
+    height: 670px;
+}
+
+.PanelFiltroDocumentos
+{
+    padding: 0px 0px 5px 15px;
+    width: 720px;
+    text-align: left;
+}
+
+.PanelFiltroDocumentos h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #000099;
+    padding: 0px 0px 0px 0px;
+}
+
+.PanelDocumentosBitacora
+{
+    width: 950px;
+    height: 600px;
+    padding: 0px 0px 0px 0px;
+}
+
+.PanelFiltroDocumentosBitacora
+{
+    padding: 0px 0px 5px 15px;
+    text-align: left;
+}
+
+.PanelFiltroDocumentosBitacora h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #000099;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.lineTab
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    background: #E30301;
+    height: 6px;
+    width: 950px;
+    margin-top: 0px;
+}
+
+.DivTab
+{
+    padding: 33px 0px 0px 0px;
+    border: 0px;
+}
+
+.TabsPrincipal
+{
+    width: 950px;
+    padding: 0px 0px 0px 0px;
+}
+
+.TabsPrincipal ul
+{
+    background: #ffffff;
+    border: 0px;
+    float: right;
+    padding: 0px 0px 0px 0px;
+}
+
+.TabsPrincipal li
+{
+    width: 180px;
+}
+
+.CuadroTextoMultifilas
+{
+    font-size: 12px;
+    width: 93%;
+    border-radius: 6px;
+    -moz-border-radius: 6px; /*text-shadow: #000 1px 1px 2px;*/
+    -webkit-border-radius: 6px;
+}
+
+.CuadroTexto
+{
+    font-size: 12px;
+    border-radius: 6px;
+    -moz-border-radius: 6px; /*text-shadow: #000 1px 1px 2px;*/
+    -webkit-border-radius: 6px;
+    height: 15px;
+}
+
+.Combo
+{
+    font-size: 12px;
+    border-radius: 6px;
+    -moz-border-radius: 6px; /*text-shadow: #000 1px 1px 2px;*/
+    -webkit-border-radius: 6px;
+    height: 20px;
+}
+
+
+.FileUpload
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    width: 500px;
+    color: #000099;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    cursor: hand;
+    text-shadow: #000 1px 1px 2px;
+    -webkit-border-radius: 6px;
+}
+
+
+/*Estilo para Gridview*/
+
+.GridItemPortal
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFFFFF;
+    text-align: center;
+    border: 0px;
+}
+
+.GridItemPortal:hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2985CD;
+    text-align: center;
+    color: #fff;
+}
+
+.GridAtlItemPortal1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fce5e5;
+    text-align: center;
+}
+
+.GridAtlItemPortal1:hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2985CD;
+    text-align: center;
+}
+
+.GridHeaderPortal
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    background-color: #e16767;
+    padding: 3px;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 6px;
+    -moz-border-radius: 6px; /*text-shadow: #000 1px 1px 2px;*/
+    -webkit-border-radius: 6px;
+}
+
+.GridPagerPortal td
+{
+    /*background-color: #5c9ccc;*/
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    background-color: #e16767;
+    border: 0px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/*Bordes redondeados para la paginacion*/
+
+.GridPagerPortal > td
+{
+    border-radius: 0px 0px 5px 5px;
+}
+
+/*Centramos la tabla que contiene los enlaces para las paginas*/
+.GridPagerPortal table
+{
+    margin: 0px auto;
+}
+
+/*El span representa el enlace a la pagina en la que estamos actualmente*/
+.GridPagerPortal span
+{
+    font-size: 14px;
+    display: block;
+    margin: 0;
+    padding: 2px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50% 50%;
+    background: #E30301;
+    color: #ffffff;
+    text-align: center;
+}
+
+.MarcoGrilla
+{
+    border: 1px solid #fce5e5;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.MarcoGrilla td, .MarcoGrilla th
+{
+    border: 1px solid #fce5e5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: center;
+}
+.MarcoGrilla table table td
+{
+    border-style: none;
+}
+
+
+/*Estilo para los enlaces redondos*/
+
+.GridPagerPortal a:hover
+{
+    display: block;
+    margin: 0;
+    padding: 2px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50% 50%;
+    background: #B1C689;
+    color: #3743a1;
+    box-shadow: 0 0 .5em rgba(0, 0, 0, .8);
+    text-align: center;
+}
+
+/* Estilo para los tabs */
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default
+{
+    border: 1px solid #eb9a9a;
+    background: #e8e8e8;
+    font-weight: bold;
+    color: #000099;
+}
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited
+{
+    color: #000099;
+    text-decoration: none;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active
+{
+    border: 1px solid #E30301;
+    background: #FD7900; /* url("images/ui-bg_flat_65_ffffff_40x100.png") 50% 50% repeat-x;*/
+    font-weight: bold;
+    color: #ffffff;
+}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Bitacora*/
+.BotonExportarExcel
+{
+    margin-top: 10px;
+    float: right;
+}

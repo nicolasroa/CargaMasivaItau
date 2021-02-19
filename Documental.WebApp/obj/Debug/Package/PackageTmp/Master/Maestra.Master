@@ -1,0 +1,200 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Maestra.master.cs" Inherits="Documental.Maestra" %>
+
+<%@ Register Assembly="Anthem" Namespace="Anthem" TagPrefix="anthem" %>
+<%@ Register Namespace="Telerik.WebControls" TagPrefix="WebControls" %>
+<%@ Register Assembly="RadMenu.Net2" Namespace="Telerik.WebControls" TagPrefix="radM" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <%-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />--%>
+    <title>Documental</title>
+
+    <link href="../Css/Blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/layout-default.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/Estilo.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/jquery.dropdown.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/liteaccordion.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/Menu.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/tipped.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+
+        function Inicio() {
+            $("#DivContenido").hide();
+            setTimeout($("#DivContenido").show('drop'), 3000);
+
+            //Mobile Detection and Redirecting
+            var device = navigator.userAgent
+
+            if (device.match(/Iphone/) != null || device.match(/Ipod/) != null || device.match(/Ipad/) != null || device.match(/Android/) != null || device.match(/J2ME/) != null || device.match(/HTC/)) {
+
+                //alert("Celular");
+            }
+            else {
+                //alert("Ordenador");
+            }
+
+        }
+
+
+        function MostrarMenu(contenido) {
+
+            $("#cssmenu").html(contenido);
+            $('#cssmenu li.active').addClass('open').children('ul').show();
+            $('#cssmenu li.has-sub>a').on('click', function () {
+                $(this).removeAttr('href');
+                var element = $(this).parent('li');
+                if (element.hasClass('open')) {
+                    element.removeClass('open');
+                    element.find('li').removeClass('open');
+                    element.find('ul').slideUp(200);
+                }
+                else {
+                    element.addClass('open');
+                    element.children('ul').slideDown(200);
+                    element.siblings('li').children('ul').slideUp(200);
+                    element.siblings('li').removeClass('open');
+                    element.siblings('li').find('li').removeClass('open');
+                    element.siblings('li').find('ul').slideUp(200);
+                }
+            });
+        }
+
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .Logo {
+            width: 215px;
+        }
+        .auto-style1 {
+            width: 689px;
+        }
+        .CssCargarMenu
+        {}
+    </style>
+
+</head>
+<body class="tdBody">
+    <form id="form1" runat="server">
+
+        <AjaxAsp:ToolkitScriptManager ID="ToolkitScriptManager1" EnableScriptGlobalization="true"
+            EnableScriptLocalization="true" runat="server">
+            <Scripts>
+                <asp:ScriptReference Path="~/Js/jquery-1.11.2.js" />
+                <asp:ScriptReference Path="~/Js/jquery-ui.js" />
+                 <asp:ScriptReference Path="~/Js/noty/jquery.noty.packaged.min.js" />
+                <asp:ScriptReference Path="~/Js/Controles.js" />
+                <asp:ScriptReference Path="~/Js/Efectos.js" />
+                <asp:ScriptReference Path="~/Js/Validacion.js" />
+                 <asp:ScriptReference Path="~/Js/excanvas.js" />
+                <asp:ScriptReference Path="~/Js/tipped.js" />
+                <asp:ScriptReference Path="~/Js/jquery.layout.js" />
+                <asp:ScriptReference Path="~/Js/Menu.js" />
+                <asp:ScriptReference Path="~/Js/funciones.js" />
+               
+                <asp:ScriptReference Path="~/Js/jquery.dropdown.js" />
+                <asp:ScriptReference Path="~/Js/liteaccordion.jquery.js" />
+               
+
+
+            </Scripts>
+        </AjaxAsp:ToolkitScriptManager>
+        <div>
+            <table style="width: 100%;" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td class="">
+                        <table style="width: 100%;">
+                            <tr>
+                                <td class="tdHead">
+                                    <table style="width: 100%;">
+                                        <tr>
+                                            <td class="Logo">
+                                                <div class="DivLogo">
+                                                    <anthem:ImageButton ID="imgBtnLogo" runat="server" ImageUrl="~/Img/Logo.gif" 
+                                                        OnClick="imgBtnLogo_Click" CssClass="CssCargarMenu" Height="68px" 
+                                                        Width="197px" />
+                                                </div>
+                                            </td>
+                                            <td style="vertical-align: bottom">
+
+                                                <radM:RadMenu ID="rdMenuPrincipal" runat="server" Skin="CssGray">
+                                                </radM:RadMenu>
+
+
+                                             
+
+
+                                            </td>
+                                            <td style="width: 30%">
+                                                <anthem:ImageButton ID="imgIniciarSesion" runat="server" ImageUrl="~/Img/Controles/Botones/btnIniciarSesion.png" AutoUpdateAfterCallBack="True" OnClick="imgIniciarSesion_Click" />
+                                                <anthem:LinkButton ID="lnkIniciarSesion" runat="server" CssClass="link-01" OnClick="lnkIniciarSesion_Click">Iniciar Sesión</anthem:LinkButton>
+                                                &nbsp;<anthem:ImageButton ID="imgCerrarSesion" runat="server" ImageUrl="~/Img/Controles/Botones/btnCerrarSesion.png" AutoUpdateAfterCallBack="True" OnClick="imgCerrarSesion_Click" />
+                                                <anthem:LinkButton ID="lnkCerrarSesion" runat="server" CssClass="link-01" OnClick="lnkCerrarSesion_Click">Cerrar Sesión</anthem:LinkButton>
+                                            </td>
+                                        </tr>
+                                        </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        <table style="width: 100%; height: 100%;" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="tdMasterLeft">&nbsp;</td>
+                                <td valing="top">&nbsp;</td>
+                                <td class="tdMasterRight">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="tdMasterLeft">&nbsp;</td>
+                                <td valing="top">
+                                    <div id="DivContenido" class="tdContenido">
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </div>
+                                </td>
+                                <td class="tdMasterRight"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div style="display: none">
+
+
+            <div id="divModalPopup1" title="VentanaModal">
+            </div>
+            <div id="divModalPopup2" title="VentanaModal">
+            </div>
+            <div id="divModalPopup3" title="VentanaModal">
+            </div>
+            <div id="divMensajes">
+                <div>
+                    <label id="lbltextoMensaje">
+                    </label>
+                </div>
+            </div>
+            <div id="divConfirmacion">
+                <label id="lbltextoConfirmacion">
+                </label>
+            </div>
+
+            <anthem:Button PreCallBackFunction="this.disabled = true" PostCallBackFunction="this.disabled = false"
+                EnabledDuringCallBack="False" ID="btnCerrarPopup" runat="server" Text="btnCerrar"
+                CssClass="CssCerrarPopup" />
+            <anthem:HiddenField ID="hdnIsPostBack" runat="server" AutoUpdateAfterCallBack="true" />
+        </div>
+
+    </form>
+</body>
+</html>

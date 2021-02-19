@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DocumentosPDF.master.cs"
+    Inherits="WebSite.Master.DocumentosPDF" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <link href="../Css/Blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/layout-default.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/Estilo.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/jquery.dropdown.css" rel="stylesheet" type="text/css" />
+    <link href="../Css/liteaccordion.css" rel="stylesheet" type="text/css" />
+
+    <link href="Css/Menu.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            text-align: left;
+            color: #ffffff;
+            font-weight: normal;
+            font-size: 12px;
+            font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+            height: 25px;
+            background-color: #848484;
+            padding-left: 10px;
+            width: 147px;
+        }
+        .style2
+        {
+            text-align: left;
+            color: #ffffff;
+            font-weight: normal;
+            font-size: 12px;
+            font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+            height: 25px;
+            background-color: #848484;
+            padding-left: 10px;
+            width: 128px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 100%;">
+            <tr>
+                <td class="tdTitulo01">
+                    Documento PDF
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table style="width: 100%;">
+                        <tr>
+                            <td class="style1">
+                                Nombre del Documento:
+                            </td>
+                            <td class="tdTitulo03">
+                                <anthem:Label AutoUpdateAfterCallBack="true"  ID="lblNombreDocumento" runat="server"></anthem:Label>
+                            </td>
+                            <td class="style2">
+                                Fecha de Creación:
+                            </td>
+                            <td class="tdTitulo03">
+                                <anthem:Label AutoUpdateAfterCallBack="true"  ID="lblFechaCreacion" runat="server"></anthem:Label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="style1">
+                                Responsable:
+                            </td>
+                            <td class="tdTitulo03">
+                                <anthem:Label AutoUpdateAfterCallBack="true"  ID="lblResponsable" runat="server"></anthem:Label>
+                            </td>
+                            <td class="style2">
+                                Módulo:
+                            </td>
+                            <td class="tdTitulo03">
+                                <anthem:Label AutoUpdateAfterCallBack="true"  ID="lblModulo" runat="server"></anthem:Label>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

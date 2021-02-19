@@ -1,0 +1,187 @@
+﻿/* r.a.d.menu CssBrick skin */
+.RadMenu_CssBrick
+{
+/*	background: #b9e0f1; */
+	background: url('img/Fondo.gif') repeat;   	 
+
+}
+
+.RadMenu_CssBrick .link
+{
+	text-decoration:none;
+	color: #000000;
+	line-height: 21px;
+	font-weight:bold;
+/*nacho aqui sacar solid y transparent  */
+/*	border-bottom: 2px hidden green;
+	border-top: 3px hidden green; */
+	padding-bottom: 3px;
+	padding-top: 1px;
+}
+
+.RadMenu_CssBrick .link .text
+{
+	padding-right: 20px;
+}
+
+.RadMenu_CssBrick .link:hover,
+.RadMenu_CssBrick .focused,
+.RadMenu_CssBrick .expanded
+{
+	/* fondo primer over */
+/*	background: #9a6927; */
+	background: url('img/fondoOver.gif') repeat;  
+/*	border-bottom: 3px solid #33a8d9; 
+	border-top: 1px solid transparent; */
+	color: black;
+	
+}
+
+.RadMenu_CssBrick .link:hover .text,
+.RadMenu_CssBrick .focused .text,
+.RadMenu_CssBrick .expanded .text
+{
+/*	border-top: 1px solid #f3f0eb; */
+}
+
+.RadMenu_CssBrick .rootGroup .disabled:hover
+{
+	border-bottom: 2px solid #b9e0f1;
+	border-top: 2px solid #b9e0f1;
+	background: #b9e0f1;
+
+}
+
+.RadMenu_CssBrick .rootGroup .disabled:hover .text
+{
+	border-top: 1px solid #b9e0f1;
+}
+
+.RadMenu_CssBrick .text
+{
+	padding: 0px 15px;
+	font-size: 10px;
+}
+
+.RadMenu_CssBrick .group
+{
+	background: white;
+	border: 0px;
+	
+}
+
+.RadMenu_CssBrick .group .link
+{
+	background: #e5f4fa;
+	border: solid 1px #addcef;
+	border-top-color: white;
+	padding-right: 0px;
+	text-align: left;
+	color: black;	 
+}
+
+.RadMenu_CssBrick .group .text
+{
+	padding-left:6px;
+	padding-right: 40px;
+}
+
+
+.RadMenu_CssBrick .group .link:hover .text,
+.RadMenu_CssBrick .group .focused .text,
+.RadMenu_CssBrick .group .expanded .text
+{
+	border-top: 0px;
+}
+
+.RadMenu_CssBrick .group .link:hover,
+.RadMenu_CssBrick .group .focused,
+.RadMenu_CssBrick .group .expanded
+{
+	background: #fafafa;
+	border-bottom: 1px solid #33a8d9;
+	border-top: 1px solid white;
+	font-weight: normal;
+}
+
+.RadMenu_CssBrick .leftArrow,
+.RadMenu_CssBrick .rightArrow,
+.RadMenu_CssBrick .topArrow,
+.RadMenu_CssBrick .bottomArrow,
+.RadMenu_CssBrick .leftArrowDisabled,
+.RadMenu_CssBrick .rightArrowDisabled,
+.RadMenu_CssBrick .topArrowDisabled,
+.RadMenu_CssBrick .bottomArrowDisabled
+{
+	border-left: 1px solid #addcef;
+	border-right: 1px solid #addcef;
+	background: #e5f4fa url('img/left.gif') center center no-repeat;
+	width:15px;
+}
+
+.RadMenu_CssBrick .topArrow,
+.RadMenu_CssBrick .topArrowDisabled
+{
+	background-image:url('img/top.gif');
+	width:114px;
+}
+
+.RadMenu_CssBrick .bottomArrow,
+.RadMenu_CssBrick .bottomArrowDisabled
+{
+	background-image:url('img/bottom.gif');
+	width:114px;
+}
+
+.RadMenu_CssBrick .rightArrow,
+.RadMenu_CssBrick .leftArrow
+{
+	height:100%;
+}
+
+.RadMenu_CssBrick .rightArrow,
+.RadMenu_CssBrick .rightArrowDisabled
+{
+	background-image:url('img/right.gif');
+}
+
+.RadMenu_CssBrick .vertical .separator .text
+{
+	background: #b1d8e9;
+	font-size:1px;
+	padding-top: 2px;
+	border-left: solid 1px #addcef;
+	border-right: solid 1px #addcef;
+}
+
+.RadMenu_CssBrick .expandLeft,
+.RadMenu_CssBrick .expandRight
+{
+	background:transparent url(img/groupImage.gif) right center no-repeat;
+	margin: 0px 3px;
+}
+
+.RadMenu_CssBrick .link:hover .expandLeft,
+.RadMenu_CssBrick .link:hover .expandRight,
+.RadMenu_CssBrick .focused .expandLeft,
+.RadMenu_CssBrick .focused .expandRight,
+.RadMenu_CssBrick .expanded .expandLeft,
+.RadMenu_CssBrick .expanded .expandRight
+{
+	background:transparent url(img/invertedGroupImage.gif) right center no-repeat;
+}
+
+/* right to left */
+.RadMenu_CssBrick_rtl .group .link:hover .expandLeft,
+.RadMenu_CssBrick_rtl .group .link:hover .expandRight
+{
+	background:transparent url(img/left.gif) left center no-repeat;
+	margin: 0px 1px;
+	padding-left: 8px;
+}
+
+.RadMenu_CssBrick_rtl .expandLeft,
+.RadMenu_CssBrick_rtl .expandRight
+{
+	background:transparent url(img/groupImageRTL.gif) left center no-repeat;
+}

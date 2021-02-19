@@ -1,0 +1,40 @@
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.csproj.CoreCompileInputs.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Debug\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Debug\Documental.Entidades.pdb

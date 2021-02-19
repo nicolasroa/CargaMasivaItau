@@ -1,0 +1,100 @@
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Anthem.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Graficos.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Anthem.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Graficos.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.csproj.CoreCompileInputs.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Anthem.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Graficos.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\SpreadsheetGear.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Global\obj\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Anthem.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Graficos.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\SpreadsheetGear.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Anthem.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Graficos.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\SpreadsheetGear.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Global.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Anthem.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Graficos.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\SpreadsheetGear.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\wnvhtmlconvert.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Debug\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.csprojResolveAssemblyReference.cache
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Debug\Documental.Global.pdb

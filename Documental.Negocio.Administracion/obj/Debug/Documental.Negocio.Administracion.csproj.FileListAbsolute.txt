@@ -1,0 +1,208 @@
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+D:\Proyectos\(VS2010) Documental\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Sitios_Panama\SistemaDocumental\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csproj.CoreCompileInputs.cache
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+\\172.20.23.28\d\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+Z:\PROYECTOS\00_Codigos Fuente\Proyecto_NuevoFlujoTasacion_ITAU\WF\Documental\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+Z:\PROYECTOS\00_Codigos Fuente\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+C:\Users\nicop\OneDrive - Asesorías en Soluciones de Software y Computación\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Negocio.Administracion.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\RadMenu.Net2.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\wnvhtmlconvert.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Anthem.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Graficos.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Data.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Documental.Global.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.csprojResolveAssemblyReference.cache
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Administracion\obj\Debug\Documental.Negocio.Administracion.pdb

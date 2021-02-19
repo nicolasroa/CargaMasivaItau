@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConexionSQL-Web.config Connection String" description="ConexionSQL Connection String used in web.config by the application to access the database." defaultvalue="Password=sql.2008;Persist Security Info=True;User ID=sa;Initial Catalog=Documental;Data Source=172.20.11.39,1433;POOLING=FALSE;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConexionSQL']/@connectionString" />
+  </parameter>
+  <parameter name="ConexionSQL_WF-Web.config Connection String" description="ConexionSQL_WF Connection String used in web.config by the application to access the database." defaultvalue="Password=boston.0212;Persist Security Info=True;User ID=boston;Initial Catalog=boston_cetap;Data Source=172.20.25.11,1433;POOLING=FALSE;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConexionSQL_WF']/@connectionString" />
+  </parameter>
+</parameters>

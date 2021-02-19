@@ -1,0 +1,16 @@
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\obj\Debug\Documental.Negocio.CargaMasiva.csprojResolveAssemblyReference.cache
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Negocio.CargaMasiva.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Negocio.CargaMasiva.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Data.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Entidades.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Global.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\wnvhtmlconvert.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Anthem.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Graficos.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Data.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Entidades.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\bin\Debug\Documental.Global.pdb
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\obj\Debug\Documental.Negocio.CargaMasiva.dll
+D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.CargaMasiva\obj\Debug\Documental.Negocio.CargaMasiva.pdb
