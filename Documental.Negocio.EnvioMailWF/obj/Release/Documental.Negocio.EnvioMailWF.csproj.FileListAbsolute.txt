@@ -20,3 +20,25 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.EnvioMailWF\bin\Release\Mi
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.ServiceLocation.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Negocio.EnvioMailWF.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Negocio.EnvioMailWF.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Anthem.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\wnvhtmlconvert.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Graficos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Data.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\obj\Release\Documental.Negocio.EnvioMailWF.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\obj\Release\Documental.Negocio.EnvioMailWF.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.EnvioMailWF\obj\Release\Documental.Negocio.EnvioMailWF.pdb

@@ -139,6 +139,8 @@ namespace Documental.Data
             #region Carga Masiva
             prc_ProcesarCargaMasiva,
             LogCargaMasiva_QRY,
+            prc_ProcesarCargaMasivaPostergados,
+
             #endregion
             #region Procedimientos Archivos Repositorio
             MailWf_INS,

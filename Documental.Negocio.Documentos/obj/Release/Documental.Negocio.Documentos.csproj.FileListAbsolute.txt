@@ -23,3 +23,28 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Documentos\bin\Release\Mic
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Negocio.Documentos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Negocio.Documentos.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Negocio.Administracion.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Anthem.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\wnvhtmlconvert.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Graficos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\RadMenu.Net2.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Data.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Documental.Negocio.Administracion.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\obj\Release\Documental.Negocio.Documentos.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\obj\Release\Documental.Negocio.Documentos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Negocio.Documentos\obj\Release\Documental.Negocio.Documentos.pdb

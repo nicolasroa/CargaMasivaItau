@@ -33,3 +33,38 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.WebApp\bin\Microsoft.Practices.Uni
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.WebApp\obj\Release\Documental.WebApp.csprojResolveAssemblyReference.cache
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.WebApp\obj\Release\Documental.WebApp.dll
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.WebApp\obj\Release\Documental.WebApp.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.WebApp.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.WebApp.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\AjaxControlToolkit.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Anthem.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.Administracion.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.CargaMasiva.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.Documentos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.EnvioMailWF.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\RadMenu.Net2.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\RestSharp.Net2.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\wnvhtmlconvert.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Graficos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Newtonsoft.Json.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.ServiceLocation.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.Unity.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.Unity.Interception.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.Administracion.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.CargaMasiva.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.Documentos.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Negocio.EnvioMailWF.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Anthem.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Documental.Data.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.Unity.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\bin\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\obj\Release\Documental.WebApp.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\obj\Release\Documental.WebApp.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.WebApp\obj\Release\Documental.WebApp.pdb

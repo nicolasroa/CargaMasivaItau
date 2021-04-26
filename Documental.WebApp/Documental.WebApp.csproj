@@ -83,6 +83,7 @@
     <Content Include="Administracion\TablasB.aspx" />
     <Content Include="Administracion\UsuarioB.aspx" />
     <Content Include="CargaNominaSolicitudes.aspx" />
+    <Content Include="CargaNominaPostergados.aspx" />
     <Content Include="Css\EstiloItau\external\jquery\jquery.js" />
     <Content Include="Css\EstiloItau\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
     <Content Include="Css\EstiloItau\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
@@ -633,6 +634,13 @@
     </Compile>
     <Compile Include="CargaNominaSolicitudes.aspx.designer.cs">
       <DependentUpon>CargaNominaSolicitudes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CargaNominaPostergados.aspx.cs">
+      <DependentUpon>CargaNominaPostergados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CargaNominaPostergados.aspx.designer.cs">
+      <DependentUpon>CargaNominaPostergados.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>

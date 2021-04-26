@@ -9,3 +9,14 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\bin\Release\Documental.Enti
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Release\Documental.Global.csprojResolveAssemblyReference.cache
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Release\Documental.Global.dll
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Global\obj\Release\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Anthem.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Graficos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\SpreadsheetGear.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\wnvhtmlconvert.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\bin\Release\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\obj\Release\Documental.Global.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\obj\Release\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Global\obj\Release\Documental.Global.pdb

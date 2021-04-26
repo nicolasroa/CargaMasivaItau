@@ -19,3 +19,24 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Data\bin\Release\Microsoft.Practic
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Data\bin\Release\Microsoft.Practices.Unity.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Data\bin\Release\Microsoft.Practices.ServiceLocation.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Data\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Data.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Global.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Anthem.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\wnvhtmlconvert.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Graficos.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.Unity.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Documental.Global.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.Unity.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\obj\Release\Documental.Data.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\obj\Release\Documental.Data.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Data\obj\Release\Documental.Data.pdb

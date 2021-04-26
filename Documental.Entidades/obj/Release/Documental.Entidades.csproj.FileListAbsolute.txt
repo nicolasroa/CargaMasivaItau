@@ -3,3 +3,7 @@ D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\bin\Release\Documental.E
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.dll
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.pdb
 D:\Fuentes\SISTEMA DOCUMENTAL\ITAU\Documental.Entidades\obj\Release\Documental.Entidades.csprojResolveAssemblyReference.cache
+E:\ProyectoNET\CargaMasivaItau\Documental.Entidades\bin\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Entidades\bin\Release\Documental.Entidades.pdb
+E:\ProyectoNET\CargaMasivaItau\Documental.Entidades\obj\Release\Documental.Entidades.dll
+E:\ProyectoNET\CargaMasivaItau\Documental.Entidades\obj\Release\Documental.Entidades.pdb

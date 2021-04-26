@@ -48,6 +48,7 @@
     <Compile Include="Administracion\Tablas.cs" />
     <Compile Include="Administracion\Usuario.cs" />
     <Compile Include="CargaMasiva\CargaMasiva.cs" />
+    <Compile Include="CargaMasiva\CargaMasivaPostergados.cs" />
     <Compile Include="Core\Auditoria.cs" />
     <Compile Include="Core\Base.cs" />
     <Compile Include="Core\Resultado.cs" />
